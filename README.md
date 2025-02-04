@@ -110,3 +110,39 @@ AGENT PANEL
 From there go to app passwords and create a custom password for osTicket.
 
 <img width="723" alt="Screenshot 2025-02-04 at 01 09 53" src="https://github.com/user-attachments/assets/ffcff76c-0b40-4c8a-b6d2-8a972cc9e34e" />
+
+<img width="650" alt="Screenshot 2025-02-04 at 01 10 07" src="https://github.com/user-attachments/assets/40a829d7-5c1f-406c-99dc-e39cc602f2a4" />
+
+<img width="590" alt="Screenshot 2025-02-04 at 01 10 22" src="https://github.com/user-attachments/assets/246e1be7-0c34-4103-a9e4-a6c1b0e7f7b2" />
+
+- After that is done, you fill in the hostname and portnumber.
+<img width="957" alt="Screenshot 2025-02-04 at 01 11 09" src="https://github.com/user-attachments/assets/023e0be9-fe6f-4f1d-8278-1345cdd36e1f" />
+
+- The new email has now been added
+<img width="960" alt="Screenshot 2025-02-04 at 01 11 52" src="https://github.com/user-attachments/assets/d871f215-eeff-4c58-bcd6-7886cfbb1962" />
+
+- You can then proceed to test if the outgoing email settings have been properly established
+<img width="960" alt="Screenshot 2025-02-04 at 01 12 23" src="https://github.com/user-attachments/assets/c22b9052-7c54-4aea-943a-5da98a77a660" />
+
+<img width="962" alt="Screenshot 2025-02-04 at 01 13 00" src="https://github.com/user-attachments/assets/646176e9-4153-41d6-bc03-ee63497c5150" />
+
+<img width="613" alt="Screenshot 2025-02-04 at 01 13 21" src="https://github.com/user-attachments/assets/05dd9468-5349-4c9c-b1fd-765881adb03d" />
+
+<h2>Teams</h2>
+- Not only can help tickets be assigned to agents, but they can also be assigned to teams, and you can add multiple agents to a team.
+<img width="959" alt="Screenshot 2025-02-04 at 01 21 52" src="https://github.com/user-attachments/assets/15b5a8ef-bc8b-4471-b37d-25ff5ddc1d9c" />
+
+<img width="957" alt="Screenshot 2025-02-04 at 01 22 35" src="https://github.com/user-attachments/assets/ceeef7ac-38bb-4916-9548-87ee88970384" />
+
+<img width="967" alt="Screenshot 2025-02-04 at 01 22 44" src="https://github.com/user-attachments/assets/910f9dcb-dc12-483d-b78d-d2de0814bcc2" />
+
+<img width="647" alt="Screenshot 2025-02-04 at 01 40 56" src="https://github.com/user-attachments/assets/1b650756-12ad-4730-97d5-bdfd69120dcb" />
+
+<h2>View Only Agents</h2>
+- When creating agents in the admin panel you can restrict the amount of access they have to a ticket. In some cases, you can decide that they can only view tickets and nothing else.
+<img width="962" alt="Screenshot 2025-02-04 at 01 42 46" src="https://github.com/user-attachments/assets/51c4aac0-d679-442b-8ba5-563696ccc491" />
+
+<img width="960" alt="Screenshot 2025-02-04 at 01 43 11" src="https://github.com/user-attachments/assets/06fb2e17-b335-42a2-96e4-9b8b4bf08a01" />
+
+- In the image below the agent Bob is unable to do anything besides looking at the ticket.
+<img width="964" alt="Screenshot 2025-02-04 at 01 44 52" src="https://github.com/user-attachments/assets/0f35ece5-e218-4d3e-b394-7ff7f65ae6b2" />
