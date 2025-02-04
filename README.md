@@ -85,3 +85,28 @@ AGENT PANEL
 <img width="958" alt="Screenshot 2025-02-03 at 23 41 05" src="https://github.com/user-attachments/assets/8e02138f-0c27-424b-847b-71fc93a74d33" />
 
 <img width="836" alt="Screenshot 2025-02-03 at 23 44 05" src="https://github.com/user-attachments/assets/b1a4f3f3-fb4e-448d-8dbe-be936d8eb76d" />
+
+<h2>SLAs (Service Level Agreements)</h2>
+- You can create SLAs in the admin panel, and their purpose is to highlight what points in time tickets should be worked(how many days a week, as well as hours in a day) and how long agents have to resolve. The purpose of this is to highlight how much of a priority a particular issue is in case too many requests are coming in at once.
+<img width="961" alt="Screenshot 2025-02-04 at 00 25 32" src="https://github.com/user-attachments/assets/55ea74b9-47a6-4f0e-b282-fc4fe5712d90" />
+
+- When you create an SLA in the admin panel you can then assign it to a ticket.
+<img width="1144" alt="Screenshot 2025-02-04 at 00 30 15" src="https://github.com/user-attachments/assets/5469277b-fcea-4d5d-ae01-d8387d595bc7" />
+
+<h2>Emails</h2>
+- You can restrict certain emails from creating tickets on the front end.
+<img width="961" alt="Screenshot 2025-02-04 at 01 01 32" src="https://github.com/user-attachments/assets/710fd9c4-7ec3-4875-812a-966757bb87fb" />
+
+<img width="941" alt="Screenshot 2025-02-04 at 01 02 01" src="https://github.com/user-attachments/assets/16c93c8d-e714-4507-aec8-c899d47c225d" />
+
+<img width="841" alt="Screenshot 2025-02-04 at 01 05 48" src="https://github.com/user-attachments/assets/7ec31096-fc31-44a8-b15f-a5c02da494ce" />
+
+-You can test outgoing emails via Simple Mail Transfer Protocol. To enable this, you first need to add an email address and enable 2-step verification.
+
+<img width="725" alt="Screenshot 2025-02-04 at 01 09 02" src="https://github.com/user-attachments/assets/e4f0c103-b7af-4975-a065-3d5016ce52b7" />
+
+<img width="858" alt="Screenshot 2025-02-04 at 01 09 40" src="https://github.com/user-attachments/assets/15f8b78c-49f5-4b1f-8271-7b1f8153e837" />
+
+From there go to app passwords and create a custom password for osTicket.
+
+<img width="723" alt="Screenshot 2025-02-04 at 01 09 53" src="https://github.com/user-attachments/assets/ffcff76c-0b40-4c8a-b6d2-8a972cc9e34e" />
