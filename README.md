@@ -58,3 +58,30 @@ AGENT PANEL
 
 - When the ticket has been marked as resolved it will no longer be visible on the agent panel unless you go to the closed ticket section in the agent panel.
 <img width="969" alt="Screenshot 2025-02-03 at 22 49 35" src="https://github.com/user-attachments/assets/b6a9c16c-eae0-4749-a7cf-ec65413cb745" />
+
+<h2>CAPTCHA</h2>
+- Within the admin panel you can add a captcha setting to the ticket so that whenever a user creates a ticket you can be sure that the person is verified as human.
+<img width="1003" alt="Screenshot 2025-02-03 at 22 58 08" src="https://github.com/user-attachments/assets/de6c4795-2218-42be-b1bf-5cf63e2f8103" />
+
+<img width="828" alt="Screenshot 2025-02-03 at 23 02 57" src="https://github.com/user-attachments/assets/34ffea4f-d1a4-4534-b051-ade657d93f76" />
+
+<h2>Help Topics</h2>
+- User complaints/issues can fall under several categories and as a result, osTicket allows you to create custom help topics making it easier for users to convey the problems they have.
+<img width="958" alt="Screenshot 2025-02-03 at 23 03 06" src="https://github.com/user-attachments/assets/29fb2a02-8b48-4ef2-a1ca-3ae9389cd129" />
+
+<img width="958" alt="Screenshot 2025-02-03 at 23 15 39" src="https://github.com/user-attachments/assets/78008639-92e4-4faf-902d-eac9b7dbcca8" />
+
+- You can even assign these topics to specific departments.
+
+<img width="960" alt="Screenshot 2025-02-03 at 23 15 45" src="https://github.com/user-attachments/assets/79d8fb31-7b3f-4438-9873-efee16de95a8" />
+
+- You can create departments in the admin panel
+<img width="966" alt="Screenshot 2025-02-03 at 23 04 54" src="https://github.com/user-attachments/assets/f9f40f62-d96a-4c40-bbf1-f9600fe9a085" />
+
+<h2>Filters</h2>
+- From the admin panel you set filters which restrict users from creating tickets if certain criteria are met or are not met.
+<img width="958" alt="Screenshot 2025-02-03 at 23 41 19" src="https://github.com/user-attachments/assets/c6e4c838-6109-42f1-b530-ed134842469d" />
+
+<img width="958" alt="Screenshot 2025-02-03 at 23 41 05" src="https://github.com/user-attachments/assets/8e02138f-0c27-424b-847b-71fc93a74d33" />
+
+<img width="836" alt="Screenshot 2025-02-03 at 23 44 05" src="https://github.com/user-attachments/assets/b1a4f3f3-fb4e-448d-8dbe-be936d8eb76d" />
