@@ -13,18 +13,22 @@ I will be going through certain parts of osTicket to demonstrate its features.
  - Gmail
 
 <h2>Operating Systems Used</h2>
+
  - Windows 10 Pro (22H2)
 
 <h2>The Platforms Of osTicket</h2>
 
-- OsTicket comes with the front-end and the back-end. The front-end is where users can create help tickets, while the back end is where all the configuration and work gets done.
+- OsTicket comes with the front-end and the back-end. The front-end is where users can create help tickets, while the back end is where all the configuration and work get done.
 
 
 
 THE BACKEND
+
 <img width="1703" alt="Screenshot 2025-02-03 at 22 30 08" src="https://github.com/user-attachments/assets/6e76c4b0-3e03-479e-9ecb-2d8be7c6b5d7" />
 
+
 THE FRONTEND
+
 <img width="904" alt="Screenshot 2025-02-03 at 22 33 05" src="https://github.com/user-attachments/assets/eb14d70b-36f6-442d-a5d3-c30cfaefaf15" />
 
 <h2>THE AGENT & ADMIN PANELS</h2>
@@ -68,7 +72,7 @@ AGENT PANEL
 
 <h2>CAPTCHA</h2>
 
-- Within the admin panel you can add a captcha setting to the front-end so that whenever a user creates a ticket you can be sure that the person is verified as human.
+- Within the admin panel you can add a captcha setting to the front-end so that whenever a user creates a ticket you can be sure that the person is a verified human.
 <img width="1003" alt="Screenshot 2025-02-03 at 22 58 08" src="https://github.com/user-attachments/assets/de6c4795-2218-42be-b1bf-5cf63e2f8103" />
 
 <img width="828" alt="Screenshot 2025-02-03 at 23 02 57" src="https://github.com/user-attachments/assets/34ffea4f-d1a4-4534-b051-ade657d93f76" />
@@ -89,7 +93,7 @@ AGENT PANEL
 
 <h2>Filters</h2>
 
-- From the admin panel you can set filters which restrict users from creating tickets if certain criteria are met or are not met.
+- From the admin panel you can set filters which restrict users from creating tickets if certain criteria are met or vice versa.
 <img width="958" alt="Screenshot 2025-02-03 at 23 41 19" src="https://github.com/user-attachments/assets/c6e4c838-6109-42f1-b530-ed134842469d" />
 
 <img width="958" alt="Screenshot 2025-02-03 at 23 41 05" src="https://github.com/user-attachments/assets/8e02138f-0c27-424b-847b-71fc93a74d33" />
@@ -98,7 +102,7 @@ AGENT PANEL
 
 <h2>SLAs (Service Level Agreements)</h2>
 
-- You can create SLAs in the admin panel, and their purpose is to highlight the points in time tickets should be worked(how many days a week, as well as hours in a day) and how long agents have to resolve them. The purpose of this is to highlight how much of a priority a particular issue is in case too many requests are coming in at once.
+- You can create SLAs in the admin panel, and their purpose is to highlight the points in time tickets should be worked on(how many days a week or hours a day, as well as what hours during the day) and how long agents have to resolve them. The purpose of this is to highlight how much of a priority a particular issue is in case too many requests are coming in at once.
 
 <img width="961" alt="Screenshot 2025-02-04 at 00 25 32" src="https://github.com/user-attachments/assets/55ea74b9-47a6-4f0e-b282-fc4fe5712d90" />
 
@@ -107,7 +111,7 @@ AGENT PANEL
 
 <h2>Emails</h2>
 
-- You can restrict certain emails from creating tickets on the front end, thus preventing users with those emails from creating tickets.
+- You can restrict users with certain emails from creating tickets on the front end, thus preventing users with those emails from creating tickets.
 <img width="961" alt="Screenshot 2025-02-04 at 01 01 32" src="https://github.com/user-attachments/assets/710fd9c4-7ec3-4875-812a-966757bb87fb" />
 
 <img width="941" alt="Screenshot 2025-02-04 at 01 02 01" src="https://github.com/user-attachments/assets/16c93c8d-e714-4507-aec8-c899d47c225d" />
