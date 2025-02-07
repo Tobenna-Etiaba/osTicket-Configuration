@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# osTicket-Configuration
+<h1>osTicket (Part 2 - Configuration)</h1>
 I will be going through certain parts of osTicket to demonstrate its features.
 
 <h2>Tools Used</h2>
