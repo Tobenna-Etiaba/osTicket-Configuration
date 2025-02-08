@@ -43,7 +43,7 @@ ADMIN PANEL
 AGENT PANEL
 <img width="1414" alt="Screenshot 2025-02-03 at 22 29 58" src="https://github.com/user-attachments/assets/8953758a-ea56-437e-b734-c222f19979ba" />
 
-- Whenever a member of an organisation has a problem that needs to be sorted (e.g: password reset) they can put it through on their end and it will then appear in the agent panel
+- Whenever a member of an organisation has a problem that needs to be sorted (e.g: password reset) they can put it through on their end and it will then appear within the agent panel
 <img width="842" alt="Screenshot 2025-02-03 at 22 35 02" src="https://github.com/user-attachments/assets/3cc0ed18-a8a9-4e3e-91af-9267e0c3976d" />
 
 <img width="960" alt="Screenshot 2025-02-03 at 22 35 30" src="https://github.com/user-attachments/assets/44ffefc2-6a7a-4ab7-9691-1ce6a89d155a" />
@@ -111,7 +111,7 @@ AGENT PANEL
 
 <h2>Emails</h2>
 
-- You can restrict users with certain emails from creating tickets on the front end, thus preventing users with those emails from creating tickets.
+- You can restrict users with certain emails from creating tickets on the front end.
 <img width="961" alt="Screenshot 2025-02-04 at 01 01 32" src="https://github.com/user-attachments/assets/710fd9c4-7ec3-4875-812a-966757bb87fb" />
 
 <img width="941" alt="Screenshot 2025-02-04 at 01 02 01" src="https://github.com/user-attachments/assets/16c93c8d-e714-4507-aec8-c899d47c225d" />
